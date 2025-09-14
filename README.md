@@ -25,20 +25,6 @@ Features
 
 ---
 
-Repository Structure
-
-canopy-cover-estimator/
-│── README.md               # Documentation
-│── requirements.txt        # Python dependencies
-│── canopy_cover.py         # Main script
-│── field_images/           # Your input images (you create this folder)
-│── outputs/                # Results folder (auto-created when running script)
-│   ├── canopy_results.csv  # CSV with canopy cover results
-│   ├── masks/              # Black/white vegetation masks
-│   └── overlays/           # Overlay images with vegetation highlighted
-
----
-
 Installation
 
 1. Clone the repo:
